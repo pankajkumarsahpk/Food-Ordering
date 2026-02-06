@@ -30,3 +30,60 @@ Before you begin, ensure you have the following installed:
 - [MongoDB](https://www.mongodb.com/) (v5 or higher)
 - npm or yarn package manager
 - Git
+## 🚀 Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/username/GrabitGo-Food-Delivery-Web-App.git
+   cd GrabitGo-Food-Delivery-Web-App
+   ```
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   # or
+   yarn install
+   ```
+
+3. **Configure environment variables**
+   
+   Create a `.env` file in the root directory:
+   ```env
+   MONGO_URI=your_mongodb_connection_string
+   NODE_ENV=development
+   PORT=5000
+   JWT_SECRET=your_jwt_secret_key
+   ```
+
+4. **Start the application**
+   ```bash
+   npm start
+   # or
+   yarn start
+   ```
+
+5. **Access the application**
+   
+   Open your browser and navigate to `http://localhost:5000`
+
+## 📁 Project Structure
+
+```
+GrabitGo-Food-Delivery-Web-App/
+├── client/                 # React frontend
+│   ├── public/
+│   └── src/
+│       ├── components/
+│       ├── pages/
+│       ├── services/
+│       └── App.js
+├── server/                 # Express backend
+│   ├── config/
+│   ├── controllers/
+│   ├── models/
+│   ├── routes/
+│   └── server.js
+├── .env.example
+├── package.json
+└── README.md
+```
