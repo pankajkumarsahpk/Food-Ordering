@@ -12,3 +12,21 @@ A full-stack food delivery platform built with the MERN stack (MongoDB, Express.
 
 ![Menu Categories](https://github.com/pankajkumarsahpk/Food-Ordering/blob/my-new-branch/Screenshot%202026-02-06%20091846.png)
 *Explore diverse menu categories and discover top dishes near you*
+
+## ✨ Features
+
+- **🔐 Secure Authentication** - Password hashing and salting for both customers and administrators
+- **👨‍💼 Admin Dashboard** - Complete restaurant, menu, and order management system
+- **📱 Responsive Design** - Optimized experience across desktop, tablet, and mobile devices
+- **🚀 Real-time Updates** - Live order tracking and status notifications
+- **🎨 Intuitive Interface** - User-friendly design for effortless navigation and ordering
+- **⚡ High Performance** - Scalable architecture built on the MERN stack
+
+  ## 📋 Prerequisites
+
+Before you begin, ensure you have the following installed:
+
+- [Node.js](https://nodejs.org/) (v16 or higher)
+- [MongoDB](https://www.mongodb.com/) (v5 or higher)
+- npm or yarn package manager
+- Git
