@@ -97,3 +97,85 @@ Tomato-Food-Delivery-Web-App/
 | `NODE_ENV` | Application environment | `development` or `production` |
 | `PORT` | Server port number | `5000` |
 | `JWT_SECRET` | Secret key for JWT tokens | `your_secret_key_here` |
+## 💻 Usage
+
+### Starting the Development Server
+
+```bash
+# Start both client and server
+npm run dev
+
+# Start server only
+npm run server
+
+# Start client only
+npm run client
+```
+
+### Building for Production
+
+```bash
+npm run build
+```
+
+## 🛠️ Tech Stack
+
+**Frontend:**
+- React.js
+- React Router
+- Axios
+- CSS3 / Styled Components
+
+**Backend:**
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- JWT Authentication
+- Bcrypt
+
+## 🤝 Contributing
+
+We welcome contributions to Tomato! Here's how you can help:
+
+1. **Fork the repository**
+2. **Create a feature branch**
+   ```bash
+   git checkout -b feature/AmazingFeature
+   ```
+3. **Commit your changes**
+   ```bash
+   git commit -m 'Add some AmazingFeature'
+   ```
+4. **Push to the branch**
+   ```bash
+   git push origin feature/AmazingFeature
+   ```
+5. **Open a Pull Request**
+
+Please ensure your code follows the project's coding standards and includes appropriate tests.
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 👥 Authors
+
+- **Your Name** - *Initial work* - [YourGitHub](https://github.com/username)
+
+## 🙏 Acknowledgments
+
+- Thanks to all contributors who have helped shape Tomato
+- Inspired by modern food delivery platforms
+- Built with the amazing MERN stack community tools
+
+## 📞 Support
+
+If you have any questions or need help, please:
+- Open an issue on GitHub
+- Contact us at support@grabitgo.com
+- Check out our [Documentation](https://github.com/username/Tomato-Food-Delivery-Web-App/wiki)
+
+---
+
+**Made with ❤️ by the Tomato Team**
