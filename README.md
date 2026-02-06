@@ -87,3 +87,13 @@ Tomato-Food-Delivery-Web-App/
 ├── package.json
 └── README.md
 ```
+## 🔧 Configuration
+
+### Environment Variables
+
+| Variable | Description | Example |
+|----------|-------------|---------|
+| `MONGO_URI` | MongoDB connection string | `mongodb://localhost:27017/grabitgo` |
+| `NODE_ENV` | Application environment | `development` or `production` |
+| `PORT` | Server port number | `5000` |
+| `JWT_SECRET` | Secret key for JWT tokens | `your_secret_key_here` |
