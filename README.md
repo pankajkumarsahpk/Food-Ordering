@@ -34,8 +34,8 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/username/GrabitGo-Food-Delivery-Web-App.git
-   cd GrabitGo-Food-Delivery-Web-App
+   git clone https://github.com/pankajkumarsahpk/Food-Ordering/tree/my-new-branch
+   cd Tomato-Food-Delivery-Web-App
    ```
 
 2. **Install dependencies**
@@ -69,7 +69,7 @@ Before you begin, ensure you have the following installed:
 ## 📁 Project Structure
 
 ```
-GrabitGo-Food-Delivery-Web-App/
+Tomato-Food-Delivery-Web-App/
 ├── client/                 # React frontend
 │   ├── public/
 │   └── src/
