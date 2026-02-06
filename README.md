@@ -4,4 +4,6 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-%3E%3D5.0-green)](https://www.mongodb.com/)
 A full-stack food delivery platform built with the MERN stack (MongoDB, Express.js, React.js, Node.js). Tomato provides a seamless ordering experience for customers and powerful management tools for restaurant administrators.  
 # 📸 Screenshots
+
+### Customer Interface
  
